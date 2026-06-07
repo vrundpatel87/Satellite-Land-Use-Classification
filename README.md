@@ -7,8 +7,7 @@ This project develops a CNN-based framework for satellite land-use classificatio
 ## Dataset
 
 Dataset Used: EuroSAT
-Dataset Link:
-https://github.com/phelber/EuroSAT
+Dataset Link: https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
 
 ## Models Used
 
